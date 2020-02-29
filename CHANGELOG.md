@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
+## [0.6.1] - 2020-02-29
+### Breaking
+- Upgraded to work with new reagent version
+
 ## [0.6.0] - 2017-09-09
 ### Breaking
 - Moved default-pagination-controls view component to new namespace: re-frame-datatable.views
